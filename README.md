@@ -7,9 +7,9 @@ Based on the explanations of Trilogy Education Services, refactoring is a key pa
 
 ### Analysis' Purpose:
 
-The purposes of this analysis is to analyze ticker data for years 2017 and 2018.  The data consists of:
+The purposes of this analysis is to analyze ticker data for years 2017 and 2018.  The data consists of the following information (note: below, the name of each column is italized for visualization of data structure):
 1. the stock's symbol or _ticker_ (12), 
-2. __date__ when the shares were traded, 
+2. _date_ when the shares were traded, 
 4. the ticker's _open_ price
 5. the ticker's  _high_ price
 7. the ticker's _low_ price, 
