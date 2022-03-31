@@ -31,5 +31,6 @@ When running an analysis for all stocks in 2017, the analysis showed that all st
 
 #### Code Refactoring Performance
 
-As the images depict below by refactoring the orignal code we greatly improved performance.
+As the images depict below by refactoring the orignal code we greatly improved performance.  For reference the orignal code to run the 2017 analysis took 1.777344 seconds.  By refactoring the code with efficiencies, speed went down to 0.171875 seconds.  That is a reduction of 1.605469 seconds!
 ![This is an image](https://github.com/Juligi/Stock_Analysis/blob/main/Resources/VBA_Challenge_2017.png)
+
