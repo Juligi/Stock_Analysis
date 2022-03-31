@@ -1,4 +1,4 @@
-***# Stock Analysis & Refactoring Code for Improved performance.  ***
+t***# Stock Analysis & Refactoring Code for Improved performance.  ***
 
 ### Overview of Project:
 This challenge requires practice of VBA utilizing starter code provided in this Challenge to refactor the original script, which looped through the data one time to collect all of the information. The key desired outcome is for refactored code to run faster than it did the original script.
@@ -22,3 +22,7 @@ The Analysis reviews the total daily volume and yearly return for each stock. Da
 ### Results
 
 #### Stock Performance
+
+When running an analysis for all stocks in 2017, the analysis showed that all stocks reviewed returned a favorable return in 2017, except ticker symbol: >TERP.    All favorable returns for 2017 ranged from 5.5% to 199.4%.  
+
+\
