@@ -23,6 +23,13 @@ The Analysis reviews the total daily volume and yearly return for each stock. Da
 
 #### Stock Performance
 
-When running an analysis for all stocks in 2017, the analysis showed that all stocks reviewed returned a favorable return in 2017, except ticker symbol: >TERP.    All favorable returns for 2017 ranged from 5.5% to 199.4%.  
+When running an analysis for all stocks in 2017, the analysis showed that all stocks reviewed returned a favorable return in 2017, except ticker symbol: "TERP".    All favorable returns for 2017 ranged from 5.5% to 199.4%.  
 
-\
+2018 was not as a favorable year as 2017.  Returns for 2018 depreciated for all tickers, except two stocks, as listed below, otherwise it was a sea of red.  
+1. "ENDPH", which had 81.9% positive return for the year, and:
+2. "Run" which returned a 84% favorable result for the year
+
+#### Code Refactoring Performance
+
+As the images depict below by refactoring the orignal code we greatly improved performance.
+![This is an image](https://github.com/Juligi/Stock_Analysis/blob/main/Resources/VBA_Challenge_2017.png)
