@@ -14,7 +14,7 @@ The purposes of this analysis is to analyze ticker data for years 2017 and 2018.
 5. the ticker's  _high_ price
 7. the ticker's _low_ price, 
 9. the ticker's _close_ price, 
-10. the ticker's _adjusted close _price, 
+10. the ticker's _adjusted close_ price, 
 11. and the ticker's daily _volume_ of shares traded
 
 The Analysis reviews the total daily volume and yearly return for each stock. Daily volume is the total number of shares traded throughout the day, measuring how actively a stock is traded. The yearly return is the percentage difference in price from the beginning of the year to the end of the year. 
