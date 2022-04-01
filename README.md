@@ -17,7 +17,7 @@ The purposes of this analysis is to analyze ticker data for years 2017 and 2018.
 10. the ticker's _adjusted close_ price, 
 11. and the ticker's daily _volume_ of shares traded
 
-The Analysis reviews the total daily volume and yearly return for each stock. Daily volume is the total number of shares traded throughout the day, measuring how actively a stock is traded. The yearly return is the percentage difference in price from the beginning of the year to the end of the year. 
+The Analysis reviews the total daily volume and yearly return for each stock. Daily volume is the total number of shares traded throughout the day, measuring how actively a stock is traded. The yearly return is the percentage difference in price from the beginning of the year to the end of the year.
 
 ### Results
 
@@ -36,3 +36,16 @@ As the images depict below by refactoring the orignal code we greatly improved p
 
 The same story is true with the 2018 stock analysis completed as shown in the following capture. ![This is an image](https://github.com/Juligi/Stock_Analysis/blob/main/Resources/VBA_Challenge_2018.png) The refactored code ran in 0.1953125 seconds for the year 2018 compared to the original code, which took 1.636719 seconds.  The refactored code shaved aproximately 1.44 seconds off. 
 
+### Summary
+
+The original code got the job done, but by improving and changing the existing code, we were actively able to make the code run more efficient and faster.  The new code adeptly reran the stock analysis for the 12 tickers reviewed for 2017 and 2018, allowing for quick comparisons.     
+
+#### Advantages of Refactoring Code
+
+According to [Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring#:~:text=In%20computer%20programming%20and%20software,without%20changing%20its%20external%20behavior.), in general there are 2 key benefits to the activity of refactoring:
+1. Maintainabily -- it is easier to maintain and fix issues and bugs because the source code is easy to read and the original intent easier to grasp.  
+2. Extensibility -- it allows to extend the capabilities of the source code and the application if it uses recognizable design patterns, providing flexibility where possibly none existed originally.  
+
+"Refactoring improves the design of software, makes software easier to understand, helps us find bugs and also helps in executing the program faster. There is an additional benefit of refactoring. It changes the way a developer thinks about the implementation when not refactoring" ( [Source](https://aip.scitation.org/doi/abs/10.1063/1.3516393?journalCode=apc#:~:text=Refactoring%20improves%20the%20design%20of,the%20implementation%20when%20not%20refactoring.))
+
+#### Disadvantages
