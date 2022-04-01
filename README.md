@@ -1,7 +1,7 @@
 t***# Stock Analysis & Refactoring Code for Improved performance.  ***
 
 ### Overview of Project:
-This challenge requires practice of VBA utilizing starter code provided in this Challenge to refactor the original script, which looped through the data one time to collect all of the information. The key desired outcome is for refactored code to run faster than it did the original script.
+This challenge requires practice of VBA utilizing starter code provided in this Challenge to refactor the original script, which looped through the data one time to collect all of the information required for analysis. The key desired outcome is for refactored code to run faster than it did the original script.
 
 Based on the explanations of Trilogy Education Services, refactoring is a key part of the coding process. When refactoring code, developers aren’t adding new functionality;instead the goal is to make code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. 
 
@@ -33,4 +33,6 @@ When running an analysis for all stocks in 2017, the analysis showed that all st
 
 As the images depict below by refactoring the orignal code we greatly improved performance.  For reference the orignal code to run the 2017 analysis took 1.777344 seconds.  By refactoring the code with efficiencies, speed went down to 0.171875 seconds.  That is a reduction of 1.605469 seconds!
 ![This is an image](https://github.com/Juligi/Stock_Analysis/blob/main/Resources/VBA_Challenge_2017.png)
+
+The same story is true with the 2018 stock analysis completed as shown in the following capture. ![This is an image](https://github.com/Juligi/Stock_Analysis/blob/main/Resources/VBA_Challenge_2018.png) The refactored code ran in 0.1953125 seconds for the year 2018 compared to the original code, which took 1.636719 seconds.  The refactored code shaved aproximately 1.44 seconds off. 
 
