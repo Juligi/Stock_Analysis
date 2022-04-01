@@ -46,7 +46,7 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring#:~:text=
 1. Maintainabily -- it is easier to maintain and fix issues and bugs because the source code is easy to read and the original intent easier to grasp.  
 2. Extensibility -- it allows for extending the capabilities of the source code and the application if it uses recognizable design patterns, providing flexibility where possibly none existed originally.  
 
-"Refactoring improves the design of software, makes software easier to understand, helps us find bugs, and also helps in executing the program faster. There is an additional benefit of refactoring. It changes the way a developer thinks about the implementation when not refactoring" ( [Source](https://aip.scitation.org/doi/abs/10.1063/1.3516393?journalCode=apc#:~:text=Refactoring%20improves%20the%20design%20of,the%20implementation%20when%20not%20refactoring.))
+"Refactoring improves the design of software, makes software easier to understand, helps us find bugs, and also helps in executing the program faster. There is an additional benefit of refactoring. It changes the way a developer thinks about the implementation when not refactoring" ( [Source](https://aip.scitation.org/doi/abs/10.1063/1.3516393?journalCode=apc#:~:text=Refactoring%20improves%20the%20design%20of,the%20implementation%20when%20not%20refactoring.)).
 
 #### Disadvantages of Refactoring Code
 
