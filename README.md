@@ -1,4 +1,4 @@
-t***# Stock Analysis & Refactoring Code for Improved performance.  ***
+***# Stock Analysis & Refactoring Code for Improved performance.  ***
 
 ### Overview of Project:
 This challenge requires practice of VBA utilizing starter code provided in this Challenge to refactor the original script, which looped through the data one time to collect all of the information required for analysis. The key desired outcome is for refactored code to run faster than it did the original script.
