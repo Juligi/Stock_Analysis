@@ -48,4 +48,10 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring#:~:text=
 
 "Refactoring improves the design of software, makes software easier to understand, helps us find bugs and also helps in executing the program faster. There is an additional benefit of refactoring. It changes the way a developer thinks about the implementation when not refactoring" ( [Source](https://aip.scitation.org/doi/abs/10.1063/1.3516393?journalCode=apc#:~:text=Refactoring%20improves%20the%20design%20of,the%20implementation%20when%20not%20refactoring.))
 
-#### Disadvantages
+#### Disadvantages of Refactoring Code
+
+On the opposite, refactoring code can have it's challenges, to include:
+1. Time Consuming -- it's uncertain how much time it will take to complete the process and where to start.
+2.  Chance of Mistakes -- a bigger probability of changing the code to a point your design no longer runs as it did before undertaking the activity of refactoring the code.  
+
+Nonetheless, the activity of refactoring is a wise one and a best practice utilized by programmers to improve their productivity, their knowhow, and most important, continue the performance optimization of their code and programs created.  
