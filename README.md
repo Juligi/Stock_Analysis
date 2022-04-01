@@ -1,6 +1,6 @@
 ***# Stock Analysis & Refactoring Code for Improved performance.  ***
 
-### Overview of Project:
+### Overview of the Refactoring Challenge:
 This challenge requires practice of VBA utilizing starter code provided in this Challenge to refactor the original script, which looped through the data one time to collect all of the information required for analysis. The key desired outcome is for refactored code to run faster than it did the original script.
 
 Based on the explanations of Trilogy Education Services, refactoring is a key part of the coding process. When refactoring code, developers aren’t adding new functionality;instead the goal is to make code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. 
